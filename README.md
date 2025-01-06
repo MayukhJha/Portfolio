@@ -120,7 +120,7 @@ To personalize the portfolio for your own use, follow these steps:
 ### Add/Remove Sections
 
 1. Update the `index.html` file by adding or removing `<section>` tags as needed.
-2. Use the pre-styled sections in `main.css` or create new ones to match your design.
+2. Use the pre-styled sections in `style.css` or create new ones to match your design.
 
 ### Replace Images
 
