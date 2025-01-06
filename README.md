@@ -92,8 +92,8 @@ Before you begin, ensure you have the following installed:
 
 ```plaintext
 Portfolio/
-├── style.css             #Custom Styles
-├── script.js
+├── style.css            # Custom Styles
+├── script.js            # Main JavaScript file
 ├── images/
 │   └── ...              # Portfolio images
 ├── index.html           # Main HTML file
