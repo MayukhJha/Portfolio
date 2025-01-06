@@ -14,7 +14,6 @@ Welcome to the **Portfolio Website** repository! This project is a personal port
 6. [Customization](#customization)
 7. [Deployment](#deployment)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ---
 
@@ -186,12 +185,6 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 ### Reporting Issues
 
 If you find any bugs or have feature requests, please open an issue in the [Issues](https://github.com/MayukhJha/Portfolio/issues) tab of this repository.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
