@@ -20,7 +20,7 @@ Welcome to the **Portfolio Website** repository! This project is a personal port
 
 ## Live Demo
 
-A live version of the portfolio website is hosted online. You can view it [here](#).
+A live version of the portfolio website is hosted online. You can view it [here](https://mayukhjhaportfolio.netlify.app/).
 
 ---
 
@@ -93,19 +93,14 @@ Before you begin, ensure you have the following installed:
 
 ```plaintext
 Portfolio/
-├── css/
-│   ├── main.css         # Custom styles
-│   └── bootstrap.min.css # Bootstrap styles
-├── js/
-│   ├── main.js          # Custom JavaScript
-│   └── bootstrap.bundle.min.js # Bootstrap scripts
+├── style.css             #Custom Styles
+├── script.js
 ├── images/
 │   └── ...              # Portfolio images
 ├── index.html           # Main HTML file
 ├── README.md            # Project documentation (this file)
-├── LICENSE              # License file
-└── assets/
-    └── ...              # Additional assets like icons, documents
+└── resume/
+    └── ...              # Resume
 ```
 
 ---
@@ -121,7 +116,7 @@ To personalize the portfolio for your own use, follow these steps:
 
 ### Customize Styles
 
-1. Modify `main.css` in the `css/` folder to change colors, fonts, or layout styles.
+1. Modify `style.css` to change colors, fonts, or layout styles.
 
 ### Add/Remove Sections
 
