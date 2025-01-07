@@ -179,13 +179,13 @@ body{
 .html-progress{
     color: #fca61f;
 }
-.javascript-progress{
+.css-progress{
     color: #6f34fe;
 }
-.php-progress{
+.bootstrap-progress{
     color: #20c997;
 }
-.reactjs-progress{
+.javascript-progress{
     color: #3f396d;
 }
 .text{
@@ -223,34 +223,6 @@ body{
 }
 .post .card{
     border: none;
-}
-
-/* testimonial section starts */
-.testimonial img:hover{
-    transform: scale(1.2,1.2);
-    transition-duration: 1s;
-}
-.testimonial h4{
-    color: #3f396d;
-}
-.testimonial i{
-    font-size: 2.9rem;
-    color: #fca61f;
-    
-}
-.testimonial .nextprev-btn{
-    border: none;
-    background-color: #fff;
-}
-.prev:hover,.prev-btn:hover{
-    color:#6f34fe;
-    transform: translateX(-10px);
-    transition-duration: 1s;
-}
-.next:hover,.next-btn:hover{
-    color:#6f34fe;
-    transform: translateX(10px);
-    transition-duration: 1s;
 }
 
 /* blog section starts */
@@ -349,7 +321,7 @@ footer .link-group a:hover{
     background-color: #fff;
     padding: 14px 15px 10px 15px;
 }
-.social-links .dribble{
+.social-links .instagram{
     color: #f33a7e;
 }
 .social-links button:hover{
@@ -357,19 +329,13 @@ footer .link-group a:hover{
     transform: translateY(-20px);
     transition-duration: 1s;
 }
-.social-links .dribble:hover{
+.social-links .instagram:hover{
     background-color: #f33a7e;
 }
-.social-links .whatsapp{
-    color: #25D366;
-}
-.social-links .whatsapp:hover{
-    background-color: #25D366;
-}
-.social-links .behance{
+.social-links .linkedin{
     color: #255afc;
 }
-.social-links .behance:hover{
+.social-links .linkedin:hover{
     background-color: #255afc;
 }
 
